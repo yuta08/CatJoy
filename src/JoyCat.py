@@ -82,7 +82,7 @@ def main():
     plt.xticks(rotation=30)
     ax.plot(label, week_rain, marker="o")
     plt.show()
-    fig.savefig("CatJoy.png")
+    fig.savefig("result.png")
 
 if __name__ == "__main__":
     main()
