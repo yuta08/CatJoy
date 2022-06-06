@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="JoyCat",
-    version="0.0.1",
+    version="0.0.2",
     author="yuta ishii",
     author_email="s2022052@stu.musashino-u.ac.jp",
     description = 'This package visualizes the happiness of cats based on Japanese traditional lore.',
