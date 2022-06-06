@@ -9,4 +9,6 @@ In Japan, there is a saying, "When the autumn rains fall, the cat\'s face become
 python JoyCat.py
 
 output
+
+
 ![output](https://github.com/yuta08/JoyCat/blob/main/CatJoy.png)
