@@ -1,3 +1,5 @@
+![PyPI](https://img.shields.io/pypi/v/JoyCat)
+
 # JoyCat
 
 ### This package visualizes the happiness of cats based on Japanese traditional lore.
